@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e20113f2-04ad-4cfa-bd41-192d36f6e700/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/borgoscstoryboard",
+    "appService.deploySubpath": "components"
+}
